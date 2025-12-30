@@ -18,6 +18,8 @@ Margo is a high-performance Security Assessment Toolkit designed with a "Shadow 
 - **Crypto Engine**: Hashing utility (MD5, SHA256) for file integrity.
 - **Service Enumeration**: Banner Grabber for identifying running services.
 - **Intelligence Grid**: OSINT module for DNS/Infrastructure mapping.
+- **Mission Reporting**: Automatically saves scan intelligence to `./reports/`.
+- **System Hardening**: Regex input validation and async UI threading.
 - **Stealth Simulation**: Random User-Agent rotation and header spoofing logic.
 - **Shadow UI**: Custom Dark Blue terminal theme.
 
@@ -59,5 +61,6 @@ python3 margo.py
 
 ---
 **STATUS**: SHΔDØW_ACTIVE
-**VERSION**: V99
-**CORE**: ONLINE
+**VERSION**: 3.4 [OPTIMIZED]
+**AUTHOR**: Youssef Bassem
+# Margo
