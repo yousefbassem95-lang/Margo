@@ -5,7 +5,7 @@
 
 > [!WARNING]
 > **LEGAL DISCLAIMER**: This tool is designed for **EDUCATIONAL AND DEFENSIVE PURPOSES ONLY**.
-> The author (Youssef Bassem) and the creators of this software take NO responsibility for misuse.
+> The author and creator (Youssef Bassem) of this software take NO responsibility for misuse.
 > It is illegal to scan, attack, or analyze systems you do not own or have explicit permission to test.
 > By downloading or using this tool, you agree to these terms.
 
