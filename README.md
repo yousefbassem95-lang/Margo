@@ -1,6 +1,6 @@
-# SHΔDØW MØDE V99 // PROJECT MARGO
+#PROJECT MARGO
 
-![Margo Icon](icon.txt)
+![Margo Icon](<img width="483" height="768" alt="Pasted image" src="https://github.com/user-attachments/assets/6801c60f-647f-4d8d-a383-28eed62c1b67" />)
 
 > [!WARNING]
 > **LEGAL DISCLAIMER**: This tool is designed for **EDUCATIONAL AND DEFENSIVE PURPOSES ONLY**.
