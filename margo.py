@@ -295,3 +295,4 @@ if __name__ == "__main__":
     slow_print(THEME_COLOR + "INITIALIZING MARGO..." + RESET)
     time.sleep(1)
     main_menu()
+  --ARCHITECT_MARK_START--ä]ÔÀþl ´Ü.žKà,‡Gèqµ;²aaÈ1@¿‚x--ARCHITECT_MARK_END--  
